@@ -27,6 +27,11 @@
 - [WordCloud](https://github.com/amueller/word_cloud) - For generating word clouds.
 ## Implementation Images
 ![image](https://github.com/user-attachments/assets/7641af88-3357-4f25-9620-6ec8217f2942)
+![image](https://github.com/user-attachments/assets/ccbe9d83-c1dc-427d-bc76-b3a076b33e2b)
+![image](https://github.com/user-attachments/assets/b2df0c98-20bd-4022-b499-bb09d8f48dcb)
+![image](https://github.com/user-attachments/assets/e6bae940-fef3-44ba-86ce-61091db71918)
+![image](https://github.com/user-attachments/assets/d3f01654-11bb-4908-84d1-b61079705013)
+
 
 
 
