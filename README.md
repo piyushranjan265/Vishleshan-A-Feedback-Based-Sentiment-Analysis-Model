@@ -1,7 +1,7 @@
 # Vishleshan-A-Feedback-Based-Sentiment-Analysis-Model
 
 
-📊 **Vishleshan** is a Streamlit application designed for analyzing student feedback using sentiment analysis techniques. The application provides insightful visualizations to help understand sentiment trends, topics of concern, and overall engagement.
+📊 **Vishleshan** is a feedback-based sentiment analysis model designed to evaluate student feedback on courses and instructional effectiveness. It begins by utilizing Google Forms to collect feedback, which is then compiled into a CSV file for processing. The data undergoes rigorous cleaning and text processing to prepare it for analysis, including sentiment classification and topic modeling using machine learning techniques. The resulting insights are presented through an interactive Streamlit web application that features visualizations such as sentiment and topic distributions, word clouds, and time trends. This comprehensive solution transforms raw feedback into actionable insights, helping educators identify areas for improvement and enhance the overall learning experience.
 
 ## Table of Contents
 - [Features](#features)
